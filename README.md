@@ -1,2 +1,9 @@
 # SC300
-Projects related to SC300 study
+
+
+## Welcome!
+
+**Check out the wiki:**
+https://github.com/CyberGuyKy/SC300/wiki
+
+**Work in progress**
